@@ -1,0 +1,48 @@
+.contact tr{
+  height: 7rem;
+}
+.contact td {
+  padding-left: 10px;
+}
+.text{
+  width: 480px;
+}
+.contact textarea{
+  width: 480px
+}
+.contact th{
+  width: 150px;
+  padding-right: 0px;
+  text-align: right;
+}
+.matter{
+  height: 7rem;
+}
+.submit{
+  text-align: center;
+}
+.submit input{
+  font-size: 3rem;
+  color: white;
+  background-color: #008B8B;
+  padding: 10px;
+  align-items: center;
+  border: none;
+}
+.submit:hover {
+  opacity: 0.5;
+}
+.footer{
+  background-color: #4D4D4D;
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  display: table;
+}
+.footer p {
+  font-size: 1rem;
+  color: #fff;
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
